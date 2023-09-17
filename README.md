@@ -29,7 +29,7 @@ To get started with Bookstore, follow these steps:
 
 ## Deployment
 
-The frontend of this project is deployed on [render](https://render.com/). You can access it at [https://notesapp-glx7.onrender.com](https://notesapp-glx7.onrender.com).
+The backend of this project is deployed on [render](https://render.com/). You can access it at [https://bookstore-api-t808.onrender.com](https://bookstore-api-t808.onrender.com).
 
 ## Authors
 
